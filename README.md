@@ -4,7 +4,7 @@ A dependency graph for [Google Super](https://docs.composio.dev/toolkits/googles
 
 ## Demo
 
-https://github.com/user-attachments/assets/dep-graph.mp4
+[https://github.com/user-attachments/assets/dep-graph.mp4](https://github.com/user-attachments/assets/b673b35d-bb0f-473e-8e50-5b76910faa13)
 
 <video src="dep-graph/assets/dep-graph.mp4" controls width="100%"></video>
 
