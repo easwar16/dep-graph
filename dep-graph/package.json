@@ -1,0 +1,15 @@
+{
+  "name": "dep-graph",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@composio/core": "^0.6.5"
+  }
+}
